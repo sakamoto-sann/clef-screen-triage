@@ -1,0 +1,10 @@
+{
+  "name": "clef-screen-triage",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A bounded Codex skill for public screenshot readiness checks with Clef-flash",
+  "license": "MIT",
+  "scripts": {"test": "vitest run --maxWorkers=1"},
+  "devDependencies": {"vitest": "5.0.3"},
+  "engines": {"node": ">=24"}
+}
